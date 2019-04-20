@@ -1,10 +1,9 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
-
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+# #100DaysOfCode Log - Round 1 (April 2019) - Harish Annam
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### Day 1: June 21. Sunday
 
-### R1D2
+**Today's Progress**: Created a new project using NextJS react framework.
+
+**Link**: https://github.com/harishannam/md-landing
