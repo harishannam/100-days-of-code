@@ -12,3 +12,8 @@
 ### Day 2: June 22. Monday
 
 **Today's Progress**: Enabled Hasura on Heroku, created tables in Postgres. Exploring the GraphQL queries.
+
+
+### Day 3: June 23. Tuesday
+
+**Today's Progress**: Explored Jekyll scripts to enable a site based on Github Markdown.
